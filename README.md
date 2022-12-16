@@ -17,7 +17,7 @@ Follow these steps to use the server on your machine:
 2. "npm start"
 3. Open the server on localhost:3000
 4. Set a name and start chatting.
-5 To simulate various users open the same server (localhost:3000) on other browsers.
+5. To simulate various users open the same server (localhost:3000) on other browsers.
 
 ### Technologies used
 
