@@ -14,10 +14,10 @@ A simple chat using Socket.io. Works on local environment currently.
 
 Follow these steps to use the server on your machine:
 1. Clone this repo.
-2. npm start
+2. "npm start"
 3. Open the server on localhost:3000
-3.1 To simulate various users open the same server (localhost:3000) on other browsers.
 4. Set a name and start chatting.
+5 To simulate various users open the same server (localhost:3000) on other browsers.
 
 ### Technologies used
 
