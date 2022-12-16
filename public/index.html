@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Socket.io chat</title>
+    <link rel="stylesheet" href="./styles/styles.css" />
+</head>
+
+<body>
+    <div class="content">
+        <ul id="messages"></ul>
+        <!-- <div id="users">
+            <p>Online</p>
+            <ul id="online-users">
+                <li>
+                    <span>Mateus</span>
+                </li>
+                <li>
+                    <span>Mateus</span>
+                </li>
+            </ul>
+            <p>Offline</p>
+            <ul id="offline-users">
+                <li>
+                    <span>Mateus</span>
+                </li>
+                <li>
+                    <span>Mateus</span>
+                </li>
+            </ul>
+
+        </div> -->
+    </div>
+
+    <div class="bottom">
+        <div id="typing"></div>
+        <form id="form" action="">
+            <button id="edit-name" type="button">Editar nome</button>
+            <input id="name" placeholder="Digite seu nome" />
+            <input id="input" autocomplete="off" placeholder="Mensagem" />
+            <button type="submit" id="btn-submit">Enviar</button>
+        </form>
+    </div>
+
+
+</body>
+<script src="/socket.io/socket.io.js"></script>
+<script src="./scripts/scripts.js"></script>
+<script>
+
+
+</script>
+
+</html>
