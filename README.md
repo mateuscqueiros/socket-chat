@@ -1,6 +1,6 @@
 # Chat with Socket.io
 
-A simple chat using Socket.io. Works on local environment currently. 
+A simple chat using Socket.io. Works on local environment currently. Link for [demo](https://bronze-ordinary-baryonyx.glitch.me/).
 
 ### Funcionalities
 
@@ -24,3 +24,4 @@ Follow these steps to use the server on your machine:
 - Socket.io
 - Express + Node.js + Nodemon(development)
 - CORS (Socket.io)
+
