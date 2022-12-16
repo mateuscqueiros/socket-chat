@@ -28,12 +28,10 @@ io.on("connection", (socket) => {
     })
 
     socket.on("typing", (obj) => {
-        console.log('typing');
         socket.broadcast.emit("typing", obj);
     })
 
     socket.on("finishtyping", (obj) => {
-        console.log('finishtyping');
         socket.broadcast.emit("finishtyping", obj);
     });
 
