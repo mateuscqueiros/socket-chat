@@ -5,7 +5,7 @@ A simple chat using Socket.io. Works on local environment currently.
 ### Funcionalities
 
 - Chat with other users on the same server.
-- "User is typing" funcionality.
+- "User is typing" tip.
 - Set a name for other users to see.
 - Persistent and editable name (Local Storage).
 - "User connected/disconnected" notification.
